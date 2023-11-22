@@ -943,5 +943,38 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 > - ~~虽然名字包含“VPN”，但传输协议是SSR，其实是机场，国外华人出品，安全性不如真正的VPN，但我使用大半年的时间，性价比和体验还是不错的，LightYear光年VPN可以作为前2款的备用选择，有时会推出国内可访问的镜像网站。我一般的使用场景是配合上面2个真正的VPN使用，可以用来访问其它VPN的官网和偶尔看视频用用，毕竟速度还不错~~，如果涉及重要账号登录和敏感信息的操作，我还是会用Express或Strong，毕竟这2款是国外大公司开发正儿八经的VPN，安全性也更有保证。(目前光年VPN无法连接、客服无人应答，暂不推荐)
 
+### PrivateVPN
+
+|地区|路径|
+| --- | --- |
+| Australia - Brisbane | au-bri.ipdatafone.net |
+| Australia - Melbourne | au-mel.ipdatafone.net |
+| Australia - Perth | au-per.ipdatafone.net |
+| Brazil - Sau Paulo | br-sao.ipdatafone.net |
+| Bulgaria - Sofia | bg-sof.ipdatafone.net |
+| Canada - Vancouver | ca-van.ipdatafone.net |
+| France - Paris | fr-par.ipdatafone.net |
+| Germany - Frankfurt | de-fra.ipdatafone.net |
+| Hong Kong (optimized in China) | hk-hon.ipdatafone.net |
+| India - Mumbai | in-mum.ipdatafone.net |
+| Italy - Milan | it-mil.ipdatafone.net |
+| Japan - Tokyo | jp-tok.ipdatafone.net |
+| Lithuania - Siauliai | lt-sia.ipdatafone.net |
+| Netherlands - Amsterdam | nl-ams.ipdatafone.net |
+| Portugal - Lisbon | pt-lis.ipdatafone.net |
+| Serbia - Belgrade | rs-bel.ipdatafone.net |
+| Spain - Madrid | es-mad.ipdatafone.net |
+| Sweden - Stockholm | se-sto.ipdatafone.net |
+| South Korea - Seoul | kr-seo.ipdatafone.net |
+| Taiwan - Taipei | tw-tai2.ipdatafone.net |
+| Thailand - Bangkok | th-ban.ipdatafone.net |
+| Turkey - Istanbul | tr-ist.ipdatafone.net |
+| UAE - Dubai | ae-dub.ipdatafone.net |
+| USA - Atlanta | us-atl.ipdatafone.net |
+| USA - Chicago | us-chi.ipdatafone.net |
+| USA - Buffalo | us-buf.ipdatafone.net |
+| USA - Los Angeles | us-los.ipdatafone.net |
+| USA - New York | us-nyc.ipdatafone.net |
+| UK - London | uk-lon.ipdatafone.net |
 
 >如果觉得本文有帮助，欢迎收藏，本文会根据最新的使用体验和测试结果实时更新。
